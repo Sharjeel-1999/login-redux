@@ -1,0 +1,9 @@
+Local Storage:
+login , signup,postdata : 
+
+username, email , random Id .
+
+post create : localstorage or redux.
+post : {postName, postPrice,postImgUrl,description,userId}
+
+jiska apna post hoga home page per , uske post per edit or delete icon honge , no functionality. 
